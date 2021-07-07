@@ -22,4 +22,4 @@ my favorite shows
 3. 90 day fiance
 4. parks and rec
 
-[link to the cheatsheet](https://www.google.com)
+[link to the cheatsheet](https://www.facebook.com)
