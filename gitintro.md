@@ -1,8 +1,14 @@
 # Hey yoooooo!
-#hello there!
+## hello there!
 # hello again
-#This is cool!
+## This is cool!
 # We are pros!
-#That's right!
+## That's right!
 # Ohhh my!
-#Learning this is awesome!
+## Learning this is awesome!
+
+
+* First item
+* Second item
+* Third item
+* Fourth item
