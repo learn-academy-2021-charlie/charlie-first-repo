@@ -18,5 +18,8 @@ this won't work because we're in a code block
 
 my favorite shows
 1. sons of anarchy
-2. game of thrones
+2. game of thrones (*hotly contested*)
 3. 90 day fiance
+4. parks and rec
+
+[link to the cheatsheet](https://www.google.com)
